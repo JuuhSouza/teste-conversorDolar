@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #742373;
+    min-height: 100vh;
+}
+
+
+.converter{
+    text-align: center;
+    padding: 20px;
+    background-color: red;
+    padding: 1em;
+}
+
+input{}
+
+
+
